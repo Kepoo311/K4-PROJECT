@@ -1,6 +1,7 @@
 # K4-PROJECT
 Game Project From SMKN4
 
-Progress: \n
+# Progress:
 Asset : 1%
+
 Code : 10%
