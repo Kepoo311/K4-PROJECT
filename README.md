@@ -2,6 +2,6 @@
 Game Project From SMKN4
 
 # Progress:
-Asset : 1%
+Asset : 5%
 
 Code : 10%
